@@ -13,8 +13,9 @@
             };
             @media (max-width: 900px){
                 padding: 0 4rem;
-            }
-        }
+            };
+        };
+        
     </style>
 </head>
 <body style="background: rgb(37,37,37)">
